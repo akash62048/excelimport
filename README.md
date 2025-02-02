@@ -8,5 +8,4 @@ This project is a React.js-based application that allows users to import and pro
 💾 Export processed data if needed
 🛠️ Technologies Used
 React.js (Frontend)
-SheetJS (xlsx library) for handling Excel files
-JavaScript, HTML, CSS for UI and styling.
+SheetJS (xlsx library) for handling Excel files.
